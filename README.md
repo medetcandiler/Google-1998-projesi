@@ -21,6 +21,7 @@ Proje örnek görsel:
 ![Proje görseli](https://i.hizliresim.com/5go6bxn.png)
 ## Hazırlayan
 **Medetcan Diler**
+
 [Patika.dev profilim](https://app.patika.dev/meddo)
 
 [Github profilim](https://github.com/medetcandiler)
