@@ -1,0 +1,72 @@
+*{
+    color: -internal-quirk-inherit;
+}
+header,footer{
+    
+    text-align: center;
+}
+header a img{
+    text-align: center;
+}
+main{
+    text-align: center;
+    display: grid;
+}
+main section.main-top{
+    background-color: rgb(238, 238, 238);
+    margin: 0px 100px;
+    margin-bottom: 2px;
+    
+}
+main section.main-top p{
+    padding: 0px;
+    margin: 0px;
+    
+}
+input{
+    padding: 1px 2px;
+    color: fieldtext;
+    width: 309px ;
+}
+section.main-bottom{
+    margin: 0px 100px   ;
+    display: flex;
+    justify-content: flex-start;
+   
+}
+div.main-bottom-left{
+    background-color: rgb(126, 229, 218);
+    width: 37%;
+    
+}
+div.main-bottom-mid{
+    background-color: rgb(112, 204, 194);
+    width: 26%;
+    margin: 0px 2px;
+    display: grid;
+}
+div.main-bottom-right{
+    background-color: rgb(98, 179, 170);
+    width: 37%;
+}
+div.main-bottom-left p{
+    margin: 10px 0px 0px 0px ;
+}
+div.main-bottom-mid a.top{
+    display: block;
+    margin-top: 5px;
+    margin-bottom:0px;
+}
+div.main-bottom-right p{
+    margin: 0px;
+}
+.fs-small{
+    font-size: small   ;
+    
+}
+.fs-medium{
+    font-size: medium;
+}
+
+
+
