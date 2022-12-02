@@ -18,7 +18,7 @@ Merhaba, ben Medetcan, Aslen Makine Mühendisi olsam da bilgisayar, bilgisayar b
 
 Proje örnek görsel:
 
-![Proje görseli](https://www.hizliresim.com/5go6bxn)
+![Proje görseli](https://i.hizliresim.com/5go6bxn.png)
 ## Hazırlayan
 **Medetcan Diler**
 [Patika.dev profilim](https://app.patika.dev/meddo)
