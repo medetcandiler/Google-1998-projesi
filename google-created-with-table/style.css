@@ -1,0 +1,56 @@
+*{
+    text-align: center;
+}
+table{
+    
+    width: 90%;
+    margin: 0px auto;
+    border-spacing: 2px;
+    
+    
+}
+table, tr, td{
+    
+}
+thead{
+    background-color: rgb(238, 238, 238);
+}
+
+.bg-left{
+    background-color: rgb(126, 229, 218);
+}
+.bg-mid{
+    background-color: rgb(112, 204, 194);
+}
+.bg-right{
+    background-color: rgb(98, 179, 170);
+}
+.fs-small{
+    font-size: small;
+}
+.fs-medium{
+    font-size:medium;
+}
+td.left{
+    width: 37%;
+}
+td.right{
+    width: 37%;
+}
+footer{
+    margin-top:20px
+}
+input.e-mail{
+    text-align: start;
+    padding: 1px 2px;
+    
+    
+}
+input#google-search{
+    width: 313px;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+
+
